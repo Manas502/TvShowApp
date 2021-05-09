@@ -1,6 +1,7 @@
 # TvShowApp
 
 This is an app used to search for TV shows by providing any buzzword.
+<br>Hosted at: https://manas502.github.io/TvShowApp/
 <br>API used : https://www.tvmaze.com/api
 <br>Library used : Axios (https://github.com/axios/axios)
 
